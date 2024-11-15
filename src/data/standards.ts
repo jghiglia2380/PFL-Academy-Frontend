@@ -11,7 +11,7 @@ export const standards: Standard[] = [
         standardId: 'jobs-careers',
         title: '1.1: Jobs vs. Careers',
         description: 'Understanding the fundamental differences between jobs and careers.',
-        content: '#Test content for debugging purposes',
+        content: 'Test content for debugging purposes',
         learningObjectives: ['Differentiate between jobs and careers'],
         readingTime: '15 minutes'
       },
