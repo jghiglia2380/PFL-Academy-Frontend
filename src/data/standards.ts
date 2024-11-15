@@ -11,55 +11,7 @@ export const standards: Standard[] = [
         standardId: 'jobs-careers',
         title: '1.1: Jobs vs. Careers',
         description: 'Understanding the fundamental differences between jobs and careers.',
-        content: `# Welcome to PFL Academy
-
-Welcome to the PFL Academy, where we aim to empower you with the knowledge and skills you need to make informed, strategic decisions about your future career and financial well-being. This program is designed for self-paced learning, giving you the flexibility to explore crucial topics in personal finance and career planning on your own schedule. Each chapter will guide you through foundational concepts, key terms, real-world examples, and reflective prompts to deepen your understanding and make learning relevant to your life.
-
-As you embark on this journey, you’ll learn about the differences between having a job versus building a career, planning for future financial goals, managing debt and credit, and understanding the role of risk management, insurance, and retirement planning in achieving financial security.
-
-Our goal is to provide you with not just theoretical knowledge but also practical tools and insights that can help you make informed choices as you navigate the complexities of the modern workforce and financial landscape. Each chapter includes interactive elements like skill builders, self-reflection prompts, and real-world scenarios designed to make the material engaging and applicable to your daily life. By the end of this program, we hope you will feel more confident in setting your own financial and career goals, developing practical plans to reach them, and making decisions that align with your long-term vision of success.
-
----
-
-## Chapter 1.1: Jobs vs. Careers
-
-This chapter is foundational to understanding your role in the workforce and making strategic choices for your future. By grasping the difference between a job and a career, you can start building a path toward not only financial independence but also personal fulfillment.
-
-### Introduction
-
-As you begin your journey into the workforce, it’s crucial to understand the difference between a job and a career. This distinction can significantly influence your educational and professional choices. A job typically provides short-term income and might be focused on immediate needs, like paying for a car or saving for college. In contrast, a career is a long-term professional journey aligned with your personal interests, values, and goals. Careers often require a commitment to developing skills, gaining relevant experience, and pursuing opportunities for growth and advancement. By understanding this difference, you can make better decisions about your future and how to navigate your path toward success.
-
-### Key Concepts
-
-- **Job**: A short-term role focused primarily on earning income. Jobs are often temporary positions taken for immediate financial gain. Examples might include working part-time as a barista, cashier, or tutor.
-- **Career**: A long-term professional journey with opportunities for growth, development, and personal fulfillment. Careers align more closely with one’s passions and goals, such as becoming a teacher, doctor, engineer, or entrepreneur.
-- **Career Planning**: Setting long-term career goals and identifying the steps needed to achieve them. Career planning often includes pursuing relevant education, internships, and job experiences to prepare for a future role.
-- **Skill Development**: Improving skills that are relevant to your career. Developing skills like communication, leadership, problem-solving, and technical expertise can help you progress in your chosen field.
-- **Job Satisfaction**: Finding fulfillment in work that aligns with your personal values and interests. Job satisfaction often comes from engaging in work that feels meaningful and aligns with your career goals.
-- **Stepping Stone Jobs**: Short-term roles that help build skills and experience for your future career. These jobs may not be the ultimate goal but serve as important steps along the path to a career.
-
-### Deeper Exploration: The SMART Approach
-
-A job often provides immediate income, but it may not align with your long-term goals. For example, working at a fast-food restaurant might help pay bills, but it may not contribute to your desired career as a software engineer or healthcare provider. A career, on the other hand, focuses on long-term growth and fulfillment. Careers often require education, training, and continuous skill development. They involve a series of steps that bring you closer to a long-term professional goal.
-
-Think of jobs as stepping stones. A job might give you valuable experience and skills that can later help you in a career. For instance, a retail job might teach you important communication skills and customer service, which are helpful in almost any field. A career, however, is a journey that builds on these skills to lead to something more aligned with your passions and goals, such as managing a business, leading a team, or becoming a specialist in a field.
-
-A key part of understanding the difference between a job and a career is career planning. Career planning allows you to set specific, achievable goals for your professional future. This includes understanding the education, skills, and experiences you’ll need to reach your career goals. If you start thinking about career planning early, you can take advantage of stepping-stone jobs that build the skills and experiences needed for a successful career.
-
-### Real-World Example
-
-Let’s look at two students, Alex and Taylor, to illustrate the difference between approaching work as a job versus a career:
-
-- **Alex's Approach**: Alex works part-time as a cashier while finishing high school. Alex views this job as a temporary way to make money and gain basic work experience, without a long-term plan for career development. While the job helps Alex earn an income, it’s seen as a short-term opportunity without a broader goal. Alex sees the cashier position as something that fulfills a need now but doesn’t necessarily contribute to future aspirations.
-
-- **Taylor's Approach**: Taylor, on the other hand, is passionate about technology and starts taking coding classes and participating in internships during school. Taylor’s long-term goal is to become a software developer. The jobs Taylor takes along the way, such as an internship at a tech company or a part-time job in IT support, are part of a larger career plan. Each position helps Taylor build relevant skills, create a network, and gain experience. Taylor’s approach is career-focused, with each job chosen intentionally as part of a broader professional journey.
-
-This example shows how approaching work as part of a career, rather than just a job, can lead to more satisfying, long-term success. While Alex and Taylor may both be earning income, Taylor’s approach is more strategic, leading to greater career satisfaction and growth opportunities over time.
-
-### Summary
-
-Understanding the difference between a job and a career is essential to making strategic decisions about your future. While jobs offer immediate financial benefits, careers provide a structured path for growth, skill development, and long-term fulfillment. Whether you’re planning to get a job during high school to save money or thinking about the steps you need for a lifelong career, the choices you make now can set you on the right path for success.
-`,
+        content: '#Test content for debugging purposes',
         learningObjectives: ['Differentiate between jobs and careers'],
         readingTime: '15 minutes'
       },
