@@ -1,0 +1,58 @@
+/* High Contrast Mode */
+.high-contrast {
+  --bg-primary: #000000;
+  --text-primary: #ffffff;
+  --link-color: #ffff00;
+  --border-color: #ffffff;
+}
+
+.high-contrast * {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border-color) !important;
+}
+
+.high-contrast a {
+  color: var(--link-color) !important;
+  text-decoration: underline !important;
+}
+
+/* Reduced Motion */
+.reduce-motion * {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Screen Reader Utilities */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Focus Indicators */
+*:focus {
+  outline: 3px solid #4c51bf !important;
+  outline-offset: 2px !important;
+}
+
+/* Skip Links */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000;
+  color: white;
+  padding: 8px;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
+}
